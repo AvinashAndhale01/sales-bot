@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PLAN100",
+    "name": "Basic Stream",
+    "speed": "50 Mbps",
+    "price": 499,
+    "usage": "streaming"
+  },
+  {
+    "id": "PLAN200",
+    "name": "Work Pro",
+    "speed": "100 Mbps",
+    "price": 799,
+    "usage": "work"
+  },
+  {
+    "id": "PLAN300",
+    "name": "Gamer Max",
+    "speed": "200 Mbps",
+    "price": 999,
+    "usage": "gaming"
+  }
+]

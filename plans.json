@@ -19,5 +19,124 @@
     "speed": "200 Mbps",
     "price": 999,
     "usage": "gaming"
+  },
+  {
+    "id": "PLAN400",
+    "name": "Social Lite",
+    "speed": "25 Mbps",
+    "price": 299,
+    "usage": "social media"
+  },
+  {
+    "id": "PLAN500",
+    "name": "Video Call Plus",
+    "speed": "75 Mbps",
+    "price": 649,
+    "usage": "video calls"
+  },
+  {
+    "id": "PLAN600",
+    "name": "Remote Learn",
+    "speed": "60 Mbps",
+    "price": 599,
+    "usage": "remote learning"
+  },
+  {
+    "id": "PLAN700",
+    "name": "Ultra Gamer",
+    "speed": "300 Mbps",
+    "price": 1299,
+    "usage": "gaming"
+  },
+  {
+    "id": "PLAN800",
+    "name": "Office Connect",
+    "speed": "120 Mbps",
+    "price": 899,
+    "usage": "work"
+  },
+  {
+    "id": "PLAN900",
+    "name": "Stream Ultra",
+    "speed": "150 Mbps",
+    "price": 1099,
+    "usage": "streaming"
+  },
+  {
+    "id": "PLAN1000",
+    "name": "Family Share",
+    "speed": "100 Mbps",
+    "price": 999,
+    "usage": "multi-user"
+  },
+  {
+    "id": "PLAN1100",
+    "name": "Student Saver",
+    "speed": "40 Mbps",
+    "price": 399,
+    "usage": "remote learning"
+  },
+  {
+    "id": "PLAN1200",
+    "name": "Browsing Basic",
+    "speed": "20 Mbps",
+    "price": 199,
+    "usage": "browsing"
+  },
+  {
+    "id": "PLAN1300",
+    "name": "Social Max",
+    "speed": "60 Mbps",
+    "price": 499,
+    "usage": "social media"
+  },
+  {
+    "id": "PLAN1400",
+    "name": "Work from Home",
+    "speed": "80 Mbps",
+    "price": 749,
+    "usage": "work"
+  },
+  {
+    "id": "PLAN1500",
+    "name": "Streamer Pro",
+    "speed": "180 Mbps",
+    "price": 1199,
+    "usage": "streaming"
+  },
+  {
+    "id": "PLAN1600",
+    "name": "Gaming Elite",
+    "speed": "250 Mbps",
+    "price": 1399,
+    "usage": "gaming"
+  },
+  {
+    "id": "PLAN1700",
+    "name": "Zoom Ready",
+    "speed": "90 Mbps",
+    "price": 699,
+    "usage": "video calls"
+  },
+  {
+    "id": "PLAN1800",
+    "name": "All Rounder",
+    "speed": "100 Mbps",
+    "price": 849,
+    "usage": "multi-purpose"
+  },
+  {
+    "id": "PLAN1900",
+    "name": "Budget Browsing",
+    "speed": "15 Mbps",
+    "price": 149,
+    "usage": "browsing"
+  },
+  {
+    "id": "PLAN2000",
+    "name": "Edu Connect",
+    "speed": "70 Mbps",
+    "price": 579,
+    "usage": "remote learning"
   }
 ]

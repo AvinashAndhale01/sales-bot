@@ -13,13 +13,31 @@ app.get('/', (req, res) => {
 
 app.get('/plans', (req, res) => {
   const usage = req.query.usage_type;
+  const name = req.query.name;
+
+  let usageFiltered = [];
+  let nameFiltered = [];
+
   if (usage) {
-    const filtered = plans.filter(plan => plan.usage === usage);
-    res.json(filtered);
-  } else {
-    res.json(plans);
+    usageFiltered = plans.filter(plan => plan.usage === usage);
   }
+
+  if (usageFiltered.length > 0) {
+    return res.json(usageFiltered);
+  }
+
+  if (name) {
+    nameFiltered = plans.filter(plan =>
+      plan.name.toLowerCase().includes(name.toLowerCase())
+    );
+  }
+
+  if (nameFiltered.length > 0) {
+    return res.json(nameFiltered);
+  }
+  res.json([]);
 });
+
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);

@@ -4,139 +4,199 @@
     "name": "Basic Stream",
     "speed": "50 Mbps",
     "price": 499,
-    "usage": "streaming"
+    "usage": "streaming",
+    "user": 2,
+    "data": "200 GB",
+    "description": "Ideal for streaming HD videos and music on a few devices."
   },
   {
     "id": "PLAN200",
     "name": "Work Pro",
     "speed": "100 Mbps",
     "price": 799,
-    "usage": "work"
+    "usage": "work",
+    "user": 4,
+    "data": "500 GB",
+    "description": "Perfect for remote work, video conferencing, and file sharing."
   },
   {
     "id": "PLAN300",
     "name": "Gamer Max",
     "speed": "200 Mbps",
     "price": 999,
-    "usage": "gaming"
+    "usage": "gaming",
+    "user": 3,
+    "data": "750 GB",
+    "description": "Low latency and high speed for smooth online gaming."
   },
   {
     "id": "PLAN400",
     "name": "Social Lite",
     "speed": "25 Mbps",
     "price": 299,
-    "usage": "social media"
+    "usage": "social media",
+    "user": 1,
+    "data": "100 GB",
+    "description": "Great for browsing social media and light internet use."
   },
   {
     "id": "PLAN500",
     "name": "Video Call Plus",
     "speed": "75 Mbps",
     "price": 649,
-    "usage": "video calls"
+    "usage": "video calls",
+    "user": 3,
+    "data": "300 GB",
+    "description": "Reliable speed for high-quality video calls and meetings."
   },
   {
     "id": "PLAN600",
     "name": "Remote Learn",
     "speed": "60 Mbps",
     "price": 599,
-    "usage": "remote learning"
+    "usage": "remote learning",
+    "user": 2,
+    "data": "250 GB",
+    "description": "Designed for students attending online classes and e-learning."
   },
   {
     "id": "PLAN700",
     "name": "Ultra Gamer",
     "speed": "300 Mbps",
     "price": 1299,
-    "usage": "gaming"
+    "usage": "gaming",
+    "user": 5,
+    "data": "1000 GB",
+    "description": "Ultra-fast speeds for competitive and multiplayer gaming."
   },
   {
     "id": "PLAN800",
     "name": "Office Connect",
     "speed": "120 Mbps",
     "price": 899,
-    "usage": "work"
+    "usage": "work",
+    "user": 6,
+    "data": "800 GB",
+    "description": "Supports multiple users working from home or small offices."
   },
   {
     "id": "PLAN900",
     "name": "Stream Ultra",
     "speed": "150 Mbps",
     "price": 1099,
-    "usage": "streaming"
+    "usage": "streaming",
+    "user": 4,
+    "data": "900 GB",
+    "description": "Stream 4K content and enjoy buffer-free entertainment."
   },
   {
     "id": "PLAN1000",
     "name": "Family Share",
     "speed": "100 Mbps",
     "price": 999,
-    "usage": "multi-user"
+    "usage": "multi-user",
+    "user": 5,
+    "data": "600 GB",
+    "description": "Best for families sharing internet across several devices."
   },
   {
     "id": "PLAN1100",
     "name": "Student Saver",
     "speed": "40 Mbps",
     "price": 399,
-    "usage": "remote learning"
+    "usage": "remote learning",
+    "user": 1,
+    "data": "150 GB",
+    "description": "Affordable plan for students and light online learning."
   },
   {
     "id": "PLAN1200",
     "name": "Browsing Basic",
     "speed": "20 Mbps",
     "price": 199,
-    "usage": "browsing"
+    "usage": "browsing",
+    "user": 1,
+    "data": "80 GB",
+    "description": "Entry-level plan for basic browsing and email."
   },
   {
     "id": "PLAN1300",
     "name": "Social Max",
     "speed": "60 Mbps",
     "price": 499,
-    "usage": "social media"
+    "usage": "social media",
+    "user": 2,
+    "data": "250 GB",
+    "description": "Stay connected on all social platforms with ease."
   },
   {
     "id": "PLAN1400",
     "name": "Work from Home",
     "speed": "80 Mbps",
     "price": 749,
-    "usage": "work"
+    "usage": "work",
+    "user": 3,
+    "data": "400 GB",
+    "description": "Optimized for remote work and business applications."
   },
   {
     "id": "PLAN1500",
     "name": "Streamer Pro",
     "speed": "180 Mbps",
     "price": 1199,
-    "usage": "streaming"
+    "usage": "streaming",
+    "user": 6,
+    "data": "1200 GB",
+    "description": "Professional-grade streaming for multiple users."
   },
   {
     "id": "PLAN1600",
     "name": "Gaming Elite",
     "speed": "250 Mbps",
     "price": 1399,
-    "usage": "gaming"
+    "usage": "gaming",
+    "user": 4,
+    "data": "1500 GB",
+    "description": "Elite speeds for hardcore and professional gamers."
   },
   {
     "id": "PLAN1700",
     "name": "Zoom Ready",
     "speed": "90 Mbps",
     "price": 699,
-    "usage": "video calls"
+    "usage": "video calls",
+    "user": 3,
+    "data": "350 GB",
+    "description": "Smooth and reliable video conferencing for work or study."
   },
   {
     "id": "PLAN1800",
     "name": "All Rounder",
     "speed": "100 Mbps",
     "price": 849,
-    "usage": "multi-purpose"
+    "usage": "multi-purpose",
+    "user": 4,
+    "data": "700 GB",
+    "description": "Versatile plan for all household internet needs."
   },
   {
     "id": "PLAN1900",
     "name": "Budget Browsing",
     "speed": "15 Mbps",
     "price": 149,
-    "usage": "browsing"
+    "usage": "browsing",
+    "user": 1,
+    "data": "60 GB",
+    "description": "Low-cost plan for basic browsing and emails."
   },
   {
     "id": "PLAN2000",
     "name": "Edu Connect",
     "speed": "70 Mbps",
     "price": 579,
-    "usage": "remote learning"
+    "usage": "remote learning",
+    "user": 2,
+    "data": "220 GB",
+    "description": "Reliable connection for students and online education."
   }
 ]

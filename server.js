@@ -3,7 +3,7 @@ const fs = require('fs');
 const { Firestore } = require('@google-cloud/firestore');
 const storage = require('node-persist');
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = 8080;
 
 app.use(express.json());
 
